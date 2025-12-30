@@ -2,7 +2,7 @@
 
 ## Team Information
 **Team Name:** ABHI AND TEJA  
-**Team Leader:** Y. Sai Abhilash  
+**Team Members:** Y. Sai Abhilash ,V. Krishna Teja  
 **Track:** Generative AI  
 
 ---
